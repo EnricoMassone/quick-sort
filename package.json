@@ -1,0 +1,29 @@
+{
+  "name": "quick-sort",
+  "version": "1.0.0",
+  "description": "Javascript implementation of the quick sort algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnricoMassoneDeltatre/quick-sort.git"
+  },
+  "keywords": [
+    "Javascript",
+    "ES6",
+    "sorting-algorithm"
+  ],
+  "author": "Enrico Massone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnricoMassoneDeltatre/quick-sort/issues"
+  },
+  "homepage": "https://github.com/EnricoMassoneDeltatre/quick-sort#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "jest": "^24.9.0",
+    "mocha": "^6.2.2"
+  }
+}
